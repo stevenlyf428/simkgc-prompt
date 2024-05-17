@@ -1,0 +1,1 @@
+OUTPUT_DIR=./checkpoint/fb15k_prompt_5_5/ bash scripts/train_fb.sh
